@@ -1,3 +1,5 @@
+[n予備校のロゴ] (90c4da92-private.png)
+
 # About  
 転職活動中のため、プログラミングの勉強をしています。  
 未経験のため、現在はHTML,CSS,JavaScript,Node.js,Ruby on Railsなど様々にわたって学習しています。  
