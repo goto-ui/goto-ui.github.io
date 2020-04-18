@@ -1,4 +1,4 @@
-[n予備校のロゴ] (90c4da92-private.png)
+[n予備校のロゴ](90c4da92-private.png)
 
 # About  
 転職活動中のため、プログラミングの勉強をしています。  
