@@ -6,3 +6,18 @@
 ## Profile  
 - 後藤　貴裕  
 - 東京都  
+
+# Skills
+- OS（Mac,Ubuntuなど）
+- Languages（HTML,CSS,JavaScript,Ruby,PHPなど）
+- Engine,Frameworks (Node.js, Express,Ruby on Railsなど)
+- Tool,MiddleWare（Git, PostgreSQLなど）
+
+# Works
+- [GitHub] https://github.com/goto-ui
+- [Qiita] https://qiita.com/run_way
+- 作った作品
+  - [作品1] https://afternoon-savannah-19774.herokuapp.com/ チョコレートについて呟くサイトです。
+  
+# Contact
+- [Twitter] https://twitter.com/GT56927679
